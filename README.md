@@ -1,7 +1,6 @@
 
-<img src="https://github.com/srsudeeksha/srsudeeksha/assets/your-banner-image-id" alt="banner" style="width:100%;"/>
 
-<h1 align="center">Hi there 👋, I'm Sannidhi Ranga Sudeeksha</h1>
+<h1 align="center">Hi there, I'm Sannidhi Ranga Sudeeksha</h1>
 <h3 align="center">A passionate Computer Science graduate specializing in Data Science</h3>
 
 ---
