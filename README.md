@@ -3,13 +3,13 @@
 <h1 align="center">Hi there, I'm Sannidhi Ranga Sudeeksha</h1>
 <h3 align="center">A passionate Computer Science graduate specializing in Data Science</h3>
 
----
+
 
 🎓 **B.Tech CSE (Data Science)** | 2025  
 🏫 **Malla Reddy University**, Hyderabad  
 🎯 Aspiring to work in a reputed MNC and grow as a skilled professional  
 
----
+
 
 ### 🔧 Technologies & Tools
 <p align="left">
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
----
+
 
 ### 📫 Connect with Me
 <p align="left">
