@@ -4,7 +4,7 @@ I'm **Sannidhi Ranga Sudeeksha**, a 2025 B.Tech graduate in Computer Science wit
 
 🌱 I’m currently learning:  
 - Data Science & Machine Learning  
-- Web Development (React.js, JavaScript)  
+- Web Development (HTML, CSS, JavaScript)  
 - Cloud Computing (AWS)
 
 🎯 Career Goal:  
