@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there, I'm Sannidhi Ranga Sudeeksha</h1>
 <h3 align="center">A passionate Computer Science graduate specializing in Data Science</h3>
 
