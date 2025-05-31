@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**srsudeeksha/srsudeeksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sannidhi Ranga Sudeeksha**, a 2025 B.Tech graduate in Computer Science with a specialization in Data Science from **Malla Reddy University, Hyderabad**.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:  
+- Data Science & Machine Learning  
+- Web Development (React.js, JavaScript)  
+- Cloud Computing (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Career Goal:  
+Looking to begin my career in a reputed MNC with a good role and growth opportunities.
+
+💬 Ask me about:  
+- Python, Java, SQL  
+- Data Visualization & Analytics  
+- Academic Projects (like IoT-based Smart Parking System)
+
+📫 How to reach me:  
+- Email: [srsudeeksha@gmail.com]  
+- Phone: [+917406541940]  
+
+😄 Pronouns: She/Her  
