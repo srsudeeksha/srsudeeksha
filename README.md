@@ -29,7 +29,6 @@
   <a href="linkedin.com/in/ranga-sudeeksha "><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
 
 ### 🌟 Fun Fact
 > I'm always curious about how data powers the world 🌍 — and love turning ideas into real-world tech projects!
