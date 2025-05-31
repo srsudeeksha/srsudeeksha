@@ -1,22 +1,46 @@
-## Hi there 👋
+<!-- Banner Image -->
+<img src="https://github.com/srsudeeksha/srsudeeksha/assets/your-banner-image-id" alt="banner" style="width:100%;"/>
 
-I'm **Sannidhi Ranga Sudeeksha**, a 2025 B.Tech graduate in Computer Science with a specialization in Data Science from **Malla Reddy University, Hyderabad**.
+<h1 align="center">Hi there 👋, I'm Sannidhi Ranga Sudeeksha</h1>
+<h3 align="center">A passionate Computer Science graduate specializing in Data Science</h3>
 
-🌱 I’m currently learning:  
-- Data Science & Machine Learning  
-- Web Development (HTML, CSS, JavaScript)  
-- Cloud Computing (AWS)
+---
 
-🎯 Career Goal:  
-Looking to begin my career in a reputed MNC with a good role and growth opportunities.
+🎓 **B.Tech CSE (Data Science)** | 2025  
+🏫 **Malla Reddy University**, Hyderabad  
+🎯 Aspiring to work in a reputed MNC and grow as a skilled professional  
 
-💬 Ask me about:  
-- Python, Java, SQL  
-- Data Visualization & Analytics  
-- Academic Projects (like IoT-based Smart Parking System)
+---
 
-📫 How to reach me:  
-- Email: [srsudeeksha@gmail.com]  
-- Phone: [+917406541940]  
+### 🔧 Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
 
-😄 Pronouns: She/Her  
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srsudeeksha&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srsudeeksha&theme=radical" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🌟 Fun Fact
+> I'm always curious about how data powers the world 🌍 — and love turning ideas into real-world tech projects!
